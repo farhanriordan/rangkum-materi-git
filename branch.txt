@@ -20,3 +20,4 @@ Conditions that occur when merging 2 branches that have changes to the same file
 When there is a conflict, we can't commit
 To commit, conflicts must be resolved first
 
+
