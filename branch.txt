@@ -16,8 +16,7 @@ Ketika conflict, kita tidak bisa melakukan commit
 Untuk melakukan commit, conflict harus diselesaikan dulu
 
 Conflict
-Kondisi yang terjadi ketika merging 2 branch yang memiliki perubahan pada file yang sama
-Ketika conflict, kita tidak bisa melakukan commit
-Untuk melakukan commit, conflict harus diselesaikan dulu
-
+Conditions that occur when merging 2 branches that have changes to the same file
+When there is a conflict, we can't commit
+To commit, conflicts must be resolved first
 
