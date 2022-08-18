@@ -1,1 +1,13 @@
-world
+Apa yang akan kita pelajari?
+GIT
+Basic Frontend
+Javascript Dasar
+Javascript OOP
+Asynchronous
+React JS
+Node JS
+Express JS
+MySQL
+MongoDB
+Final Project
+Penyaluran Kerja
